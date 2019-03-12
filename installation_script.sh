@@ -80,6 +80,7 @@ git clone https://github.com/SeanNaren/deepspeech.pytorch.git
 
 cd deepspeech.pytorch/
 
+mkdir models
 sudo pip install -r requirements.txt
 
 cd .. 
