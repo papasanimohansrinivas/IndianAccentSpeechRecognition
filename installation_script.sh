@@ -53,3 +53,5 @@ wget https://github.com/mozilla/DeepSpeech/releases/download/v0.4.1/deepspeech-0
 tar xvfz deepspeech-0.4.1-models.tar.gz
 
 mkdir ./deepspeech_modelexport
+
+mkdir ./train_features_cache ./validation_features_cache ./test_features_cache
